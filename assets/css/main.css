@@ -183,6 +183,7 @@ input, select, textarea {
 			h1 {
 				font-size: 2em;
 				margin: 0 0 1em 0;
+				text-align: center;
 			}
 
 		}
