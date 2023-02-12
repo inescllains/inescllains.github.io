@@ -184,7 +184,6 @@ input, select, textarea {
 			h1 {
 				font-size: 2em;
 				margin: 0 0 1em 0;
-				text-align: center;
 			}
 
 		}
@@ -2716,7 +2715,7 @@ input, select, textarea {
 			}
 
 			.tiles article.style3 > .image:before {
-				background-color: #7bd0c1;
+				background-color: #BB7878;
 			}
 
 			.tiles article.style4 > .image:before {
