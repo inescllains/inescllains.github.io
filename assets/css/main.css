@@ -2711,23 +2711,23 @@ input, select, textarea {
 			}
 
 			.tiles article.style2 > .image:before {
-				background-color: #7ecaf6;
+				background-color: #f2849e;
 			}
 
 			.tiles article.style3 > .image:before {
-				background-color: #BB7878;
+				background-color: #f2849e;
 			}
 
 			.tiles article.style4 > .image:before {
-				background-color: #c75b9b;
+				background-color: #f2849e;
 			}
 
 			.tiles article.style5 > .image:before {
-				background-color: #ae85ca;
+				background-color: #f2849e;
 			}
 
 			.tiles article.style6 > .image:before {
-				background-color: #8499e7;
+				background-color: #f2849e;
 			}
 
 			body:not(.is-touch) .tiles article:hover > .image {
